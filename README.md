@@ -1,6 +1,8 @@
 # CrypTool
 Encryption, written in Python to encrypt text, in two ways the Cesar and Vigenere encryption, two options with which you can encrypt your messages, since you will generate a password, which only the person with whom you want to share the text can offer, since it must have the encrypted text and the key to decipher the text, to the original text, it is used for confidentiality of messages that you only want to be seen by people you choose so that the message arrives to originate them.
 
+<img src="https://i.imgur.com/Q6mePOG.png" title="CrypTool">
+
 The project is open to partners.
 
 # SUPPORTED DISTRIBUTIONS
